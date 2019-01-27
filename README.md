@@ -2,5 +2,5 @@
 
 ## Links
 
-*  [LinkedIn](https://ww.linkedin.com/in/nickbenn/)
+*  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
