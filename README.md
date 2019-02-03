@@ -12,7 +12,8 @@
 ## Identity Chart
 
 |             | Professional    |        Personal        |
- | ---| --- | 
+
+| ---| --- | 
 
 | ### Identity
 
