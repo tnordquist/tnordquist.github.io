@@ -11,9 +11,12 @@
   
 ## Identity Chart
 
-|             | Professional    |        Personal        |
+| Professional  | Personal |
+| ------------- | ------------- |
+| Identity | Todd Nordquist | Todd  |
+| Content Cell  | Content Cell  |
 
-| ---| --- | 
+
 
 | ### Identity
 
