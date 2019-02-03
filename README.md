@@ -5,20 +5,26 @@
 *  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
 
-## Visuals Speak
+## Week 2
+
+### Visuals Speak
 
   Recently, before entering a Java Coding bootcamp I was doing well both in my personal life and in my career as a property manager.  I could have ridden out that path to retirement but I wanted something more.  The attached image of the the bottle of wine, bread, and flower on a table conveys that sort of low key comfort.  But I have long wanted to do something bigger and more consequential involving software development.  The image of being in a major metropolitan area conveys that notion.  Two or three years from now I will have worked in the tech industry  for some time improving all my programming, math, and soft skills so that I will be ever more attractive to potential employers as a software developer.   In addition I will have produced a passion project or two to improve my capabilities that much more.  Finally, I will work my way toward acquiring a master's degree in computer science as part of that path of bridging that future life with my current life.
   
-## Identity Chart
+### Identity Chart
 
 |          | Professional  | Personal |
 | --------- | ------------- | --------
 | Identity | Todd Nordquist | Todd  |
 | Channels  | LinkeIn  | Facebook, Spotify, Audible
 | Content |Website Builder, Property Manager| Programming Hobbyist, hiker,reader, nerd
-                                
+ 
+### Reflections on Identity Chart
+ I'm not sure that a potential recruiter would have found everything I included in the identity chart but he would have found enought to know that I was coming from a solid career foundation.  He would possibly know that I was committed to programming as a hobbyist at least. I believe a recruiter would take a chance with me if he know about my background at UNM and my current enrollement in the bootcamp.  Otherwise, a recruiter might think I did not yet have enough to offer based just off of my online presence.                                
 
-## Thoughts Week 1
+### Week 1
+
+### Thoughts 
 
  I write this first week's journal entry filled with both excitement and some trepidation.
 
