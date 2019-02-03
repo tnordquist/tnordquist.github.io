@@ -11,24 +11,12 @@
   
 ## Identity Chart
 
-| Professional  | Personal |
-| ------------- | ------------- |
+|          | Professional  | Personal |
+| --------- | ------------- | --------
 | Identity | Todd Nordquist | Todd  |
-| Content Cell  | Content Cell  |
-
-
-
-| ### Identity
-
-
-
-| ### Channels
-
-
-
-
-| ### Content
-
+| Channels  | LinkeIn  | Facebook, Spotify, Audible
+| Content |Website Builder| Programming Hobbyist, hiker,
+|         | Property Manager | reader, nerd                                |
 
 ## Thoughts Week 1
 
