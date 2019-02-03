@@ -15,8 +15,8 @@
 | --------- | ------------- | --------
 | Identity | Todd Nordquist | Todd  |
 | Channels  | LinkeIn  | Facebook, Spotify, Audible
-| Content |Website Builder| Programming Hobbyist, hiker,
-|         | Property Manager | reader, nerd                                |
+| Content |Website Builder, Property Manager| Programming Hobbyist, hiker,reader, nerd
+                                
 
 ## Thoughts Week 1
 
