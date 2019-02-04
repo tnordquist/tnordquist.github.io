@@ -29,7 +29,7 @@ The presentations on Friday February 1 opened my eyes regarding the possibilitie
 
 ### Week 1
 
-### Thoughts 
+### Reflection On Week 1 
 
  I write this first week's journal entry filled with both excitement and some trepidation.
 
