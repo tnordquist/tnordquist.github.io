@@ -5,6 +5,38 @@
 *  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
 
+## Week 3
+
+### Reflection On Week 3
+
+The end of the week presentations were as helpful as the presentations from last week. This time a human face was put on prospective employers and fellow employees. I was especially encouraged by the outlook of Michael Herrick regarding hiring new employees - he cares that a person has done the hard work of learning how to think (algorithmic thinking) rather than how much surface show they have.  I hope there are a lot more prospective employers like him out there.  In any case, his presentation helped me reconfirm in my own mind that if I keep working on the ability to tackle problems and solve them my new career path looks bright.  And yes I know that I need to put a lot of work into hunting down those opportunities as well.
+### Stove Top Activity
+
+- Finish CS courses needed to enter the CS Master's program at UNM.
+- Become expert in data structures.
+- Set up coffee date with friend I know who works at a company that I want to apply to.
+- Get hired at a company that creates computer modeling of physical processes.
+
+### Identify Two Orgs
+
+#### For Profit Organization
+- ##### Deacon Property Services
+- Kyle Deacon
+- kdeacon24@swcp.com, [Deacon Property Services](http://deaconpropertyservices.com)
+- I selected this company because I know the owner wants to update the website.  I used to work at this company and I made the website about five years ago - it needs updating both front end and back end.
+- I know this person so I just need to schedule dinner with him.
+
+#### Not-For-Profit Organization
+- ##### Sandia Foundation
+- Mark Benak, appears to be on the board, but he has his own tech. company that builds new businesses, which has sparked my curiosity.
+- [LinkedIn](https://www.linkedin.com/in/mbenak/)  [twitter](https://twitter.com/mbenak) [uptake](https://www.uptake.com)
+- I selected this company because it appears that the founders have a long history in Albuquerque of helping promising students pay for college and of helping people, especially it appears, who want to start technology companies.  All that appeals to me and seems like a worthwhile road to go down.  The foundation's website is clunky and hard to navigate.  I suspect they would not mind some help if presented in the right way.
+- I will begin the process of reaching out th Mark by filling out the form on his website, by tweeting him, and through his linkedIn page.
+
+### Salary Expectations and Potential
+
+I have hope to begin at the $60,000ish range salary.  Regarding programming capability, in addition to soon having this bootcamp under my belt, a few years ago at UNM I took two java courses as well as Linear Algebra and Discrete Mathematics.  I think my math background should improve my ability to get a job at a place like Sandia Labs.  Also, I solved the exercise challenges, so far, in 12 of 13 chaptersI'm hoping to leverage my work experience in other fields, especially my experience with having to talk with a lot of people, to make myself stand out as a good risk for an employer to take on.
+
 ## Week 2
 
 ### Reflection On Week 2
@@ -19,26 +51,6 @@ The presentations on Friday February 1 opened my eyes regarding the possibilitie
 ### [LinkedIn](https://www.linkedin.com/in/todd-nordquist-83682885/)  
   
 ### [Resume](https://github.com/tnordquist/tnordquist.github.io/blob/master/docs/Todd%20Nordquist%20Resume.PDF)
-#### SUMMARY
-Experienced organizer and supervisor that has strong analytical aptitude. Brings people skills to the world of software development.
-#### SKILLS
-  Multi-family property management Skilled multi-tasker
-Microsoft Office
-Knowledge of leasing and market conditions
-Personable
-#### EXPERIENCE
-##### Property Manager
-Team development Computer-savvy
-Team management Coding understanding
-         Albuquerque, NM
-Deacon Property Services/ Feb 2013 to Dec 2018
-I supervised and coordinated contractors doing commercial and residential rebuild projects as well as supervised the maintenance and inspection staff.
-##### Regional Director Seattle
-seattle, WA
-Schiller Institute Inc/ Aug 1999 to Apr 2012
-Analyzed team performance on a weakly basis through review of income generated and material distributed.
-#### EDUCATION AND TRAINING
-Bachelor of Arts: Philosophy/ Film Studies University of Florida 1991
 
 ### Identity Chart
 
