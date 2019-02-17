@@ -5,6 +5,26 @@
 *  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
 
+## Week 4
+
+### Reflection On Week 4
+
+I did not breeze through the practical exam 1 this Friday as I had thought I would.  I got the actual basic programs correct but then got hung up on small code errors that prevented the program from producing all the correct results.  I learned that I need to practice code challenges more and that I especially need to become more habituated to debugging.  If I had been able to more calmly go through the debugging process I would have solved enough problem questions to have more than the full points needed for the practical exam.
+
+### Capstone Project Rules of Engagement: Celestial Bodies
+
+#### Rules of Engagement
+- All team members are personally committed to achieving the goals of the team for completing the capstone project.
+- Team members have courage to do the right thing and work on tough problems.
+- Everyone focuses on the work of the goals of the Team.
+- The Team agrees to be open about all the work and the challenges with performing the work.
+- Team members respect each other to be capable, independent people.
+
+We will schedule our first meet up this week.
+
+### Relection on Playing Forbidden Island
+I was surprised and happy about how well my capstone team members and I worked together to understand the game and then play and win.  I initially underestimated both my team members - they got the hang of the game faster than I did. I had more confidence in our ability to make the capstone project work even before the game was over. 
+
 ## Week 3
 
 ### Reflection On Week 3
