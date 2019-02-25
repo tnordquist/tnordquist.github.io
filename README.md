@@ -6,6 +6,15 @@
 *  [GitHub](https://www.github.com/tnordquist)
 * [Resume version 2](https://github.com/tnordquist/tnordquist.github.io/blob/master/docs/Todd%20Nordquist%20Resume.pdf)
 
+## Week 5
+
+### Reflection On Week 5
+
+I'm very glad that Ingenuity Software Lab crew came in to speak.  I feel confident that John and Lisa would genuinely be glad to help connect me to prospective employers if I reached out to them (which I will).  I've recovered from the first major exam and am preparing for the much more intense project work to come.
+
+### One Million Cups
+I spoke with Randy Crawl and spoke with him about data analysis and what is required to be a data scientist.
+
 ## Week 4
 
 ### Reflection On Week 4
