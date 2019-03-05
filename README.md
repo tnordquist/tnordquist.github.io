@@ -5,6 +5,11 @@
 *  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
 * [Resume version 2](https://github.com/tnordquist/tnordquist.github.io/blob/master/docs/Todd%20Nordquist%20Resume.pdf)
+## Week 6
+
+### Reflection On Week 6
+
+It's half way through the program and the majority of the work still has to be done - that's kind of scary.  But, we clearly will have lots of time to work on our projects while in class with Nick nearby to help - so not so scary.  The tour of the server facility on Friday helped me to further get a feel for the fact that there really is a lot of work opportunity out there - all of the presenters did work that interested me.  When Dan announced he sent my comments out to RS21 it hit me that I need to greatly improve my LinkeIn site.
 
 ## Week 5
 
