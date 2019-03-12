@@ -5,6 +5,12 @@
 *  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
 * [Resume version 2](https://github.com/tnordquist/tnordquist.github.io/blob/master/docs/Todd%20Nordquist%20Resume.pdf)
+
+## Week 7
+
+### Reflection On Week 7
+The huge amount of work I have to do in a short period of time is really hitting me now.  I'm working on two android projects at the same time while needing to also practice coding and still learn new things.  At the same time there's the looming thought that soon this will be over and I'll be scrambling to land a job.  This is all very intense but I'm feeling good about it.
+
 ## Week 6
 
 ### Reflection On Week 6
