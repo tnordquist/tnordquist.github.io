@@ -6,6 +6,12 @@
 *  [GitHub](https://www.github.com/tnordquist)
 * [Resume version 2](https://github.com/tnordquist/tnordquist.github.io/blob/master/docs/Todd%20Nordquist%20Resume.pdf)
 
+## Week 8
+
+### Reflection On Week 8
+
+I was glad to hear that there are efforts to lay fiber optics cable across the state in the attempt to upgrade the internet.  I thought the work being done by optiplus to be especially promising.  Regarding the rest of the week I did well on the second exam, which allows me to better concentrate on the big Android projects.  I made some breakthroughs in my Android work in the last few days after struggling for some time.
+
 ## Week 7
 
 ### Reflection On Week 7
