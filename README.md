@@ -4,7 +4,7 @@
 
 *  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
-* [Resume](docs/Todd Nordquist Resume.pdf)
+* [Resume](docs/todd_nordquist_resume.pdf)
 
 ## Week 9
 
