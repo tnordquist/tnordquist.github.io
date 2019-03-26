@@ -6,6 +6,12 @@
 *  [GitHub](https://www.github.com/tnordquist)
 * [Resume version 2](https://github.com/tnordquist/tnordquist.github.io/blob/master/docs/Todd%20Nordquist%20Resume.pdf)
 
+## Week 9
+
+### Reflection On Week 9
+
+I felt relieved on Friday because I finished the last of the functional aspects needed to get my individual Android app working properly.  My goal was then to finish all the documentation and so be done with the app by Monday March 25.  That did not happen.  I hope to be done with the app by Tuesday so that I could start focusing on the capstone project - we're having a hard time finding a working star map api.
+
 ## Week 8
 
 ### Reflection On Week 8
