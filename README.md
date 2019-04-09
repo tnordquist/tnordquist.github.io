@@ -4,7 +4,13 @@
 
 *  [LinkedIn](https://www.linkedin.com/in/nickbenn/)
 *  [GitHub](https://www.github.com/tnordquist)
-* [Resume](docs/todd_nordquist_resume)
+*  [Resume](docs/todd_nordquist_resume)
+
+## Week 12
+
+### Reflection On Week 11
+
+I'm feeling a lot of pressure going into the last week having only 1 1/2 weeks to do an entire capstone project.  The project does seem to be coming together though despite the time constraint.  Now the thoughts of applying for jobs and presenting the capstone at demo day is growing very strong.
 
 ## Week 9
 
